@@ -1,0 +1,18 @@
+{
+  "productionURL": "http://localhost:4173/",
+  "canvasCount": 1,
+  "reducedMotion": true,
+  "actualCanvasChangesWithMaterials": true,
+  "actualCanvasChangesWithOrbit": true,
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x11c00517200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+    "[.WebGL-0x11c00517200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+    "[.WebGL-0x11c00517200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+    "[.WebGL-0x11c00517200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+  ],
+  "failedRequests": [],
+  "desktopAndMobileLayout": "Screenshots inspected at 1440×960 and 390×844",
+  "enquiry": "Required name/email validation, selected palette inclusion, optional fields, native dialog Escape, and Copy enquiry verified",
+  "mobile": "Navigation and quote dialog verified; no horizontal page overflow"
+}
